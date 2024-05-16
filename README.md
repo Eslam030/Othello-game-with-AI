@@ -1,1 +1,0 @@
-# Othello-game-with-AI
